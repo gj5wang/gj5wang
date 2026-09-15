@@ -1,6 +1,6 @@
 # 👋 Hi there
 
-I'm Gloria Wang, a Computer Science student at the University of Waterloo working toward an MD-PhD in health technology. I want to become a pediatrician and pediatric research scientist, and most of my projects sit somewhere between software and medicine.
+I'm Gloria Wang, a Computer Science student at the University of Waterloo interested in health technology. 
 
 ## 🚀 Expertise
 
