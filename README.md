@@ -8,7 +8,7 @@ I work as a Data Analyst at the Bedford Institute of Oceanography, where I extra
 
 I also serve as Internal Director at UW Blueprint, a student design team that builds software for nonprofits. In that role I coordinate volunteers and manage outreach for a distributed team.
 
-On the frontend side, I have worked with React and TypeScript on the Swimingo codebase, and I am learning SQL and PostgreSQL from scratch this term.
+On the frontend side, I worked on the Swimingo codebase in React and TypeScript, alongside a full technical SEO audit of swimingo.com. I fixed broken footer location links that were hurting local SEO and crawlability, used Google Search Console to monitor indexing status, search performance, and crawl errors, and resolved the on-page issues the audit surfaced through frontend fixes. I am also learning SQL and PostgreSQL from scratch this term.
 
 Outside of my co-op terms, I build my own projects. RIGHT CALL is a hackathon project that classifies North Atlantic right whale calls from audio, showing a council of sub scores instead of one confidence number. Project Origin is an AR cultural immersion tool built with React Native, the Gemini and Claude APIs, and MongoDB.
 
