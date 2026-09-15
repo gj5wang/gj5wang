@@ -2,7 +2,7 @@
 
 ## 👋 Hi there ⋆｡°✩
 
-I'm Gloria Wang, a Computer Science student at the University of Waterloo working toward an MD-PhD in health technology. I want to become a pediatrician and pediatric research scientist, and most of my projects sit somewhere between software and medicine.
+I'm Gloria Wang, a Computer Science student at the University of Waterloo intersted in health technology. 😆
 
 ✩₊˚.⋆☾⋆⁺₊✧ ✩₊˚.⋆☾⋆⁺₊✧ ✩₊˚.⋆☾⋆⁺₊✧
 
@@ -14,7 +14,7 @@ I also serve as Internal Director at UW Blueprint, a student design team that bu
 
 On the frontend side, I worked on the Swimingo codebase in React and TypeScript, alongside a full technical SEO audit of swimingo.com. I fixed broken footer location links that were hurting local SEO and crawlability, used Google Search Console to monitor indexing status, search performance, and crawl errors, and resolved the on-page issues the audit surfaced through frontend fixes. I am also learning SQL and PostgreSQL from scratch this term.
 
-Outside of my co-op terms, I build my own projects 🎀 TrustLens is a clinical AI explainability dashboard built around the Wisconsin Breast Cancer dataset, using scikit-learn, SHAP, and Streamlit. RIGHT CALL is a hackathon project that classifies North Atlantic right whale calls from audio, showing a council of sub scores instead of one confidence number. Project Origin is an AR cultural immersion tool built with React Native, the Gemini and Claude APIs, and MongoDB.
+Outside of my co-op terms, I build my own projects. RIGHT CALL is a hackathon project that classifies North Atlantic right whale calls from audio, showing a council of sub scores instead of one confidence number. Project Origin is an AR cultural immersion tool built with React Native, the Gemini and Claude APIs, and MongoDB.
 
 ✩₊˚.⋆☾⋆⁺₊✧ ✩₊˚.⋆☾⋆⁺₊✧ ✩₊˚.⋆☾⋆⁺₊✧
 
