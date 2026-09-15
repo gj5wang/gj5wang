@@ -10,7 +10,7 @@ I also serve as Internal Director at UW Blueprint, a student design team that bu
 
 On the frontend side, I have worked with React and TypeScript on the Swimingo codebase, and I am learning SQL and PostgreSQL from scratch this term.
 
-Outside of my co-op terms, I build my own projects. TrustLens is a clinical AI explainability dashboard built around the Wisconsin Breast Cancer dataset, using scikit-learn, SHAP, and Streamlit. RIGHT CALL is a hackathon project that classifies North Atlantic right whale calls from audio, showing a council of sub scores instead of one confidence number. Project Origin is an AR cultural immersion tool built with React Native, the Gemini and Claude APIs, and MongoDB.
+Outside of my co-op terms, I build my own projects. RIGHT CALL is a hackathon project that classifies North Atlantic right whale calls from audio, showing a council of sub scores instead of one confidence number. Project Origin is an AR cultural immersion tool built with React Native, the Gemini and Claude APIs, and MongoDB.
 
 ## 🧰 Tech Stack
 
