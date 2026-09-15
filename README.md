@@ -1,6 +1,6 @@
 # 👋 Hi there
 
-I'm Gloria Wang, a Computer Science student at the University of Waterloo interested in health technology. 
+I'm Gloria Wang, a Computer Science student at the University of Waterloo interested in health technology😆
 
 ## 🚀 Expertise
 
